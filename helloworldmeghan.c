@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Meghan Ryan\n");
+  printf("Meghan Ryan and Molly Arnold\n");
 
   return 0;
 }
